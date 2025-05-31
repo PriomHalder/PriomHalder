@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **DSA,Web development**
 
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/priom-halder-72b84b2b0/?trk=public-profile-join-page](https://www.linkedin.com/in/priom-halder-72b84b2b0/?trk=public-profile-join-page)
+
 - 💬 Ask me about **Python, DSA, HTML, CSS**
 
 - 📫 How to reach me **priomhalder1470@gmail.com**
