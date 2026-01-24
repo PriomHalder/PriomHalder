@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,Web development**
+- 🌱 I’m currently learning **DSA, Data Science, ML**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/priom-halder-72b84b2b0/?trk=public-profile-join-page](https://www.linkedin.com/in/priom-halder-72b84b2b0/?trk=public-profile-join-page)
 
